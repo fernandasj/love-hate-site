@@ -1,0 +1,43 @@
+.book-img{
+    margin-top: 5px;
+    margin-left: 80px;
+    margin-bottom: 30px;
+}
+
+.hero-background{
+    background-image: url("../img/unnamed1.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.8;
+}
+
+.hero-text{
+    text-shadow: 3px 2px rgb(251, 250, 252); 
+    font-family:  'Playfair Display', serif;
+}
+
+.text-style{
+    margin-top: 25px;
+    text-shadow: 3px 2px rgb(251, 250, 252); 
+    color:rgb(2, 14, 83); 
+    font-family:  'Playfair Display', serif;
+}
+
+.quote-title{
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.pergaminho{
+    background-image: url("../img/vRJKqO.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 850px;
+}
+
+.img{
+   height: 300px;
+   width: 250px; 
+}
